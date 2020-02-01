@@ -1,0 +1,8 @@
+¿Por qué Python?
+http://ligdigonzalez.com/por-que-utilizar-python-para-machine-learning/
+
+Google Colab: Python y Machine Learning en la nube
+https://www.adictosaltrabajo.com/2019/06/04/google-colab-python-y-machine-learning-en-la-nube/
+
+9 Empresas de Internet que utilizan Python
+http://www.pythondiario.com/2018/06/9-empresas-de-internet-que-utilizan.html

@@ -1,0 +1,5 @@
+Standardize or Normalize? — Examples in Python
+https://medium.com/@rrfd/standardize-or-normalize-examples-in-python-e3f174b65dfc
+
+KNN Documentation
+https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html

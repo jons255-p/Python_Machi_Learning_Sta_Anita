@@ -1,0 +1,42 @@
+A beginner’s guide to Linear Regression in Python with Scikit-Learn
+https://towardsdatascience.com/a-beginners-guide-to-linear-regression-in-python-with-scikit-learn-83a8f7ae2b4f
+
+
+Linear Regression Simplified - Ordinary Least Square vs Gradient Descent
+https://towardsdatascience.com/linear-regression-simplified-ordinary-least-square-vs-gradient-descent-48145de2cf76
+
+
+Least Squares Regression
+https://www.mathsisfun.com/data/least-squares-regression.html
+
+
+Multiple Linear Regression with Python
+https://medium.com/analytics-vidhya/multiple-linear-regression-with-python-98f4a7f1c26c
+
+
+¿Qué método utiliza LinearRegression en sklearn?
+https://stackoverflow.com/questions/34469237/linear-regression-and-gradient-descent-in-scikit-learn-pandas
+
+
+Ways to Detect and Remove the Outliers
+https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba
+
+
+Seaborn Pairplot
+https://seaborn.pydata.org/generated/seaborn.pairplot.html
+
+
+Z-Score: Definition, Formula and Calculation
+https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/z-score/
+
+
+When Should You Delete Outliers from a Data Set?
+https://humansofdata.atlan.com/2018/03/when-delete-outliers-dataset/
+
+
+Logistic Regression — Detailed Overview
+https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+
+
+Understanding Logistic Regression in Python
+https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python
